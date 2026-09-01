@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="JsonToCvsConverter.csproj" />
+  <Project Path="JsonToCvsConverter.Tests\JsonToCvsConverter.Tests.csproj" />
+</Solution>
